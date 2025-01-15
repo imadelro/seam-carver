@@ -3,6 +3,9 @@ The Seam Carver is a Python class for performing seam carving on images. Seam ca
 
 ## Features
 **Energy Calculation**: Computes the energy of a pixel based on its neighbors using the gradient magnitude.
+
 **Vertical Seam Removal**: Finds and removes the lowest-energy vertical seam.
+
 **Horizontal Seam Removal**: Finds and removes the lowest-energy horizontal seam.
+
 **Image Transposition**: Allows switching between horizontal and vertical seams.
