@@ -1,5 +1,8 @@
 # SeamCarver
+## Overview
 The Seam Carver is a Python class for performing seam carving on images. Seam carving is an image resizing technique that reduces the image size while preserving important content by removing low-energy seams.
+
+This seam carver leverages dynamic programming to identify the seam with the lowest energy, ensuring minimal impact on the image's content.
 
 ## Features
 **Energy Calculation**: Computes the energy of a pixel based on its neighbors using the gradient magnitude.
