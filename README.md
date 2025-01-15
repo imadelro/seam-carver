@@ -12,3 +12,7 @@ This seam carver leverages dynamic programming to identify the seam with the low
 **Horizontal Seam Removal**: Finds and removes the lowest-energy horizontal seam.
 
 **Image Transposition**: Allows switching between horizontal and vertical seams.
+
+## Demo
+https://github.com/user-attachments/assets/4fc46acf-552a-42d3-a0b1-8cea61a34d38
+
